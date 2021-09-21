@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1ifhlaaE1mdn/cL85ZZqMc3loZPoXSuNwi+OTAO5FMUnjbUnEAqJqhtf9imY1LKDTFvszx7He14RZT06X3Ipg==",
+  "success": true,
+  "projectFilePath": "/Users/jaywikstrom/prime/tier3/dotnet-rest-api/dotnet-rest-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaywikstrom/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/jaywikstrom/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jaywikstrom/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/jaywikstrom/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/jaywikstrom/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/jaywikstrom/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
